@@ -10,14 +10,14 @@
 
 ## 🤖 Default models
 
-| # | Model | API Endpoint | Description |
-|---|-------|--------------|-------------|
-| 1 | **Mistral** | `mistralai/devstral-small-2505:free` | Fast and efficient model |
-| 2 | **DeepSeek** | `deepseek/deepseek-chat-v3.1:free` | Advanced reasoning capabilities |
-| 3 | **Llama** | `meta-llama/llama-4-maverick:free` | Meta's powerful language model |
-| 4 | **Qwen** | `qwen/qwen3-30b-a3b:free` | Alibaba's multilingual model |
-| 5 | **ChatGPT** | `openai/gpt-oss-120b:free` | OpenAI's flagship model |
-| 6 | **Google Gemma** | `google/gemma-3-27b-it:free` | Google's instruction-tuned model |
+| # | Model | API Endpoint |
+|---|-------|--------------|
+| 1 | **Mistral** | `mistralai/devstral-small-2505:free` |
+| 2 | **DeepSeek** | `deepseek/deepseek-chat-v3.1:free` |
+| 3 | **Llama** | `meta-llama/llama-4-maverick:free` |
+| 4 | **Qwen** | `qwen/qwen3-30b-a3b:free` |
+| 5 | **ChatGPT** | `openai/gpt-oss-120b:free` |
+| 6 | **Google Gemma** | `google/gemma-3-27b-it:free` |
 
 ## 📋 Requirements
 
